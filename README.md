@@ -17,6 +17,56 @@ Coming soon...
 
 ## Projects
 
+### 📚 Library Analytics Dashboard
+Java application developed as part of my Software Engineering coursework.
+
+**Technologies:** Java, Swing, XML, JSON
+
+- Object-oriented design
+- Graphical user interface development with Java Swing
+- Library data processing and analytics
+- XML and JSON data handling
+- Worked with different library record types including books, DVDs, and CDs
+
+#### 🖥️ Project Demonstration
+
+🎥 **[Watch the Project Demonstration](YOUR_VIDEO_LINK)**
+
+#### 📄 Data Export Interfaces
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="json-export.png" width="100%">
+
+#### JSON Export Interface
+
+**Library System**
+
+`DATA PARSING` `JSON`
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="xml-export.png" width="100%">
+
+#### XML Export Interface
+
+**Library System**
+
+`DATA PARSING` `XML`
+
+</td>
+
+</tr>
+</table>
+
+🔒 **Source Code:** The source code is not publicly available because this project was developed as assessed university coursework. This repository showcases the project while respecting academic integrity requirements.
+
+
 
 ## Certifications
 
