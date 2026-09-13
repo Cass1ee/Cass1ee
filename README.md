@@ -30,7 +30,7 @@ Java application developed as part of my Software Engineering coursework.
 
 #### 🖥️ Project Demonstration
 
-🎥 **[Watch the Project Demonstration](YOUR_VIDEO_LINK)**
+🎥 **(YOUR_VIDEO_LINK)**
 
 #### 📄 Data Export Interfaces
 
@@ -72,7 +72,7 @@ Java application developed as part of my Software Engineering coursework.
 
 ### 🏆 Certificate Name
 
-**Issuing Organisation**  
+**Cisco Networking Acad Python EssentialS 1**  
 2026
 
 </td>
@@ -83,7 +83,7 @@ Java application developed as part of my Software Engineering coursework.
 
 ### 🏆 Certificate Name
 
-**Issuing Organisation**  
+**Cisco Networking Acad Python essentials 2**  
 2026
 
 </td>
