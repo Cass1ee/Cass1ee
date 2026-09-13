@@ -39,7 +39,7 @@ Java application developed as part of my Software Engineering coursework.
 
 <td width="50%" align="center">
 
-<img src="json-export.png" width="100%">
+<img src="C:\Users\Cassandra\Downloads\json-export.png" width="100%">
 
 #### JSON Export Interface
 
@@ -72,7 +72,7 @@ Java application developed as part of my Software Engineering coursework.
 
 ### 🏆 Certificate Name
 
-**Cisco Networking Acad Python EssentialS 1**  
+**Cisco Networking Acad Python Essentials 1**  
 2026
 
 </td>
@@ -83,7 +83,7 @@ Java application developed as part of my Software Engineering coursework.
 
 ### 🏆 Certificate Name
 
-**Cisco Networking Acad Python essentials 2**  
+**Cisco Networking Acad Python Essentials 2**  
 2026
 
 </td>
