@@ -70,6 +70,50 @@ Java application developed as part of my Software Engineering coursework.
 
 ## Certifications
 
-....
+### 🏆 Certificate Name
 
+**Issuing Organisation**  
+2026
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="certificate-2.png" width="100%">
+
+### 🏆 Certificate Name
+
+**Issuing Organisation**  
+2026
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="certificate-3.png" width="100%">
+
+### 🏆 Certificate Name
+
+**Issuing Organisation**  
+2026
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="certificate-4.png" width="100%">
+
+### 🏆 Certificate Name
+
+**Issuing Organisation**  
+2026
+
+</td>
+
+</tr>
+</table>
 
