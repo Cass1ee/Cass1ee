@@ -69,6 +69,27 @@ Java application developed as part of my Software Engineering coursework.
 🔒 **Source Code:** The source code is not publicly available because this project was developed as assessed university coursework. This repository showcases the project while respecting academic integrity requirements.
 
 
+### Sentiment Analysis Pipeline Prototype
+A Python-based data processing pipeline that simulates streaming text data and turns it into useful sentiment insights.
+
+ **Built with:** `Python` `NLTK` `Pandas` `Matplotlib` `JSONL` `CSV`
+ 
+### Features
+
+- Simulated streaming data ingestion
+- Text preprocessing and sentiment analysis
+- Sentiment labels for processed data
+- CSV result export
+- Automated data visualisations
+- Separate modes for analysis and plot generation
+
+
+
+
+
+
+
+
 
 ## Certifications
 
