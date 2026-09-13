@@ -51,7 +51,8 @@ Java application developed as part of my Software Engineering coursework.
 
 <td width="50%" align="center">
 
-<img width="1160" height="856" alt="xml-export" src="https://github.com/user-attachments/assets/2ff4ddc1-b5c2-432f-a39d-d9c4bb32574c" />
+<img width="1286" height="825" alt="json-export" src="https://github.com/user-attachments/assets/98a88123-723c-4e53-acb0-95b8ab3b966c" />
+
 
 #### XML Export Interface
 
