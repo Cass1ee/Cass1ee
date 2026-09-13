@@ -39,7 +39,8 @@ Java application developed as part of my Software Engineering coursework.
 
 <td width="50%" align="center">
 
-<img src="C:\Users\Cassandra\Downloads\json-export.png" width="100%">
+<img width="1286" height="825" alt="json-export" src="https://github.com/user-attachments/assets/05b1d347-96be-4c0f-8599-206d5a4f9fdf" />
+
 
 #### JSON Export Interface
 
@@ -51,7 +52,7 @@ Java application developed as part of my Software Engineering coursework.
 
 <td width="50%" align="center">
 
-<img width="1286" height="825" alt="json-export" src="https://github.com/user-attachments/assets/98a88123-723c-4e53-acb0-95b8ab3b966c" />
+<img width="1160" height="856" alt="xml-export" src="https://github.com/user-attachments/assets/fff1c265-bb12-4b87-b793-74554232983a" />
 
 
 #### XML Export Interface
